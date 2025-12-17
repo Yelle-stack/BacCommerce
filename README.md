@@ -2,6 +2,28 @@
 ![image alt](https://github.com/Yelle-stack/BacCommerce/blob/899e5293d2cf351902221ab49311bfc86cad0fe1/Capture%20d%E2%80%99e%CC%81cran%202025-12-17%20a%CC%80%2009.12.36.png)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## 🛠️ Stack technique
+
+Framework : Next.js 15 (App Router)
+
+Langage : TypeScript
+
+UI : Tailwind CSS
+
+State management : Zustand
+
+Forms & validation :
+
+react-hook-form
+
+zod
+
+Icons : lucide-react
+
+Images : next/image
+
+Routing & filters : next/navigation
+
 ## Getting Started
 
 First, run the development server:
