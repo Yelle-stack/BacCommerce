@@ -1,6 +1,5 @@
 # 🛍️ TrendBac — Modern E-commerce Frontend
 ![image alt](https://github.com/Yelle-stack/BacCommerce/blob/899e5293d2cf351902221ab49311bfc86cad0fe1/Capture%20d%E2%80%99e%CC%81cran%202025-12-17%20a%CC%80%2009.12.36.png)
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## 🛠️ Stack technique
 
@@ -24,6 +23,7 @@ Images : next/image
 
 Routing & filters : next/navigation
 
+## This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 ## Getting Started
 
 First, run the development server:
